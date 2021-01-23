@@ -1,0 +1,5 @@
+node_modules/
+*.stl
+*.vim
+main.js
+temp*

@@ -1,0 +1,13 @@
+:root {
+  --top-menu-level: 60px;
+}
+
+body {
+  margin: 0;
+}
+
+#container {
+  width: 100%;
+  height: auto;
+  display: block;
+}
